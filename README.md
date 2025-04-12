@@ -21,7 +21,7 @@ I'm just starting my journey in web development and building strong foundations 
 - 🌱 My progress & what I’m learning
 
 ### 📫 Connect With Me:
-[LinkedIn] | [Email] (anaslahmar888@gmail.com|||)
+[LinkedIn] (https://www.linkedin.com/in/anas-lahmar-a66826338/) | [Email] (anaslahmar888@gmail.com)
 
 ---
 
