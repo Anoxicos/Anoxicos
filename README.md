@@ -25,4 +25,4 @@ I'm just starting my journey in web development and building strong foundations 
 
 ---
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+
