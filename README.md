@@ -43,7 +43,7 @@ AI-powered multilingual resume builder (MERN + Puppeteer + Google Gemini AI). Fi
 ### 📫 Connect with me
 
 - 💼 Open to freelance full-stack + deployment work 
-- 📧 *[Email](add your email or contact link here)*
+- 📧 *anaslahmar888@gmail.com*
 - 🌐 *[Linkedin](https://www.linkedin.com/in/anas-lahmar-a66826338/)*
 - Num`+2126222957021`
 ---
